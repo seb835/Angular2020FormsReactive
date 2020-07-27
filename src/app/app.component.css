@@ -3,5 +3,9 @@
 }
 
 input.ng-invalid.ng-touched {
-  border: 1px solid red;
+  border: 1px solid orangered;
+}
+
+input.ng-pending {
+  border: 1px solid orange;
 }
